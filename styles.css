@@ -1,0 +1,117 @@
+.container {
+  border: solid 1px #dfe9f3;
+  border-radius: 35px;
+  margin-top: 50px;
+  width: 700px;
+  font-family: "Hind Siliguri", sans-serif;
+  padding: 30px;
+  background-image: linear-gradient(to top, #dfe9f3 0%, white 100%);
+}
+
+h2 {
+  display: block;
+  color: #5c6476;
+  font-size: 30px;
+}
+
+.fa-bars {
+  display: inline-block;
+  font-size: 35px;
+  position: relative;
+  top: -45px;
+  left: 600px;
+  color: #5a6275;
+}
+
+.meteo {
+  color: #5a6275;
+  font-size: 35px;
+  margin-top: 0;
+  padding-top: 0;
+  line-height: 1.5em;
+}
+
+.main_data,
+.more_temp,
+.hum,
+.data_place {
+  color: #939aa9;
+}
+
+.main_data {
+  font-size: 25px;
+  margin-top: 10px;
+  margin-bottom: 0;
+  line-height: 2;
+}
+
+.more_temp {
+  margin-bottom: 0;
+}
+
+.more_temp,
+.data_place,
+form {
+  font-size: 18px;
+}
+
+span.where {
+  color: #ff4c79;
+  margin-top: 10px;
+}
+
+.fa-sun {
+  display: block;
+  color: #ff4c79;
+  font-size: 80px;
+  padding: 10px;
+  margin-top: 5px;
+}
+
+form {
+  border: solid 2px #ff4c79;
+  border-radius: 4px;
+  padding: 20px;
+  color: #ff4c79;
+}
+
+.city {
+  width: 500px;
+}
+
+.forecast {
+  color: #5a6275;
+  line-height: 2em;
+  font-size: 30px;
+}
+
+.weekly {
+  text-align: center;
+  line-height: 2;
+  color: #939aa9;
+}
+
+.weekly i {
+  color: #5a6275;
+  font-size: 20px;
+}
+
+.col {
+  border-left: solid 2px #dfe9f3;
+  border-right: solid 2px #dfe9f3;
+}
+
+.day {
+  color: #ff4c79;
+  font-size: 20px;
+}
+
+.geotag {
+  border: 1px black solid;
+}
+
+.celsius,
+.fahr {
+  display: inline-block;
+  font-size: 20px;
+}
